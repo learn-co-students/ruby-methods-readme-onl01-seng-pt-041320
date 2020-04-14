@@ -27,7 +27,12 @@ def say_hello_ten_times
 end
 say_hello_ten_times
   say_hello_ten_times
-  
+  def greeting
+    puts "Hello World"
+  end
+  greeting
+    greeting
+    
 
 
   
